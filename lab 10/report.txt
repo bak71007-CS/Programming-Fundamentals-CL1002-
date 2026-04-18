@@ -1,0 +1,7 @@
+----- REPORT CARD -----
+Name: Bilal
+Subject 1: 90
+Subject 2: 85
+Subject 3: 95
+Average: 90.00
+Status: Pass
